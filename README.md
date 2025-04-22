@@ -7,7 +7,7 @@ GitHub Copilot に人格を与えるプロンプト集です。
 自身のリポジトリにサブモジュールとして追加する方法をオススメします。
 
 ```bash
-git submodule add https://github.com/numagotatu/copilot-personalities.git .github/personalities
+git submodule add https://github.com/huyu-kotori/copilot-personalities.git .github/personalities
 ```
 
 そして、VSCode の設定としてこれを紐づけます。
